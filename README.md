@@ -13,5 +13,5 @@
 |Dimension|80mm x 40mm x 20mm                         |
 |Weight   |60g                                        |
 
-### (司徒開源) https://whycan.com/t_7909.html
-### https://steward-fu.github.io/website/index.htm
+### Forum: https://whycan.com/t_7909.html
+### Home: https://steward-fu.github.io/website/index.htm
